@@ -1,10 +1,5 @@
 <div align="center">
   <img src="assets/profile-banner.png" alt="Kuldeep Kumar — Full-Stack Developer" width="100%" />
-
-  <h1>Hey, I'm Kuldeep Kumar 👋</h1>
-  <h3>Full-Stack Developer · Tech Creator · Problem Solver</h3>
-  <p>Building modern, scalable and AI-powered web applications.</p>
-
   <p>
     <a href="https://kuldeep-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/Kuldeep-Fusion"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
